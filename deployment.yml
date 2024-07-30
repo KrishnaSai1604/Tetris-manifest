@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: emergencydevops/dockerlabs:V2
+        image: krishnasaif5/dockerlabs:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
